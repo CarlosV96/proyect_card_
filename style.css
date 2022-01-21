@@ -11,6 +11,7 @@ body {
     color: hsl(215, 51%, 70%);
     text-align: center;
     font-size: 13px;
+    font-family: 'Outfit', sans-serif;
 }
 .attribution a:hover {
     color: hsl(178, 100%, 50%);
